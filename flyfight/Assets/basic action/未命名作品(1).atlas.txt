@@ -1,0 +1,123 @@
+
+未命名作品(1).png
+size: 2038,1725
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyes
+  rotate: false
+  xy: 367, 1252
+  size: 535, 281
+  orig: 535, 281
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: true
+  xy: 2, 2
+  size: 712, 1034
+  orig: 1131, 1790
+  offset: 27, 756
+  index: -1
+larm
+  rotate: false
+  xy: 1537, 361
+  size: 499, 742
+  orig: 840, 886
+  offset: 0, 144
+  index: -1
+left coat
+  rotate: true
+  xy: 815, 1535
+  size: 188, 416
+  orig: 214, 416
+  offset: 26, 0
+  index: -1
+lleg
+  rotate: true
+  xy: 567, 716
+  size: 387, 968
+  orig: 387, 968
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 1695
+  size: 95, 28
+  orig: 95, 28
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 99, 1661
+  size: 174, 62
+  orig: 174, 62
+  offset: 0, 0
+  index: -1
+r coat
+  rotate: true
+  xy: 1233, 1515
+  size: 208, 374
+  orig: 208, 374
+  offset: 0, 0
+  index: -1
+rarm
+  rotate: true
+  xy: 275, 1540
+  size: 183, 538
+  orig: 183, 538
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 1609, 1493
+  size: 230, 258
+  orig: 230, 258
+  offset: 0, 0
+  index: -1
+rleg
+  rotate: true
+  xy: 904, 1105
+  size: 386, 963
+  orig: 386, 963
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: true
+  xy: 2, 1261
+  size: 277, 363
+  orig: 277, 363
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 2, 811
+  size: 563, 439
+  orig: 900, 1706
+  offset: 207, 427
+  index: -1
+
+未命名作品(1)2.png
+size: 772,767
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: true
+  xy: 2, 2
+  size: 763, 768
+  orig: 763, 768
+  offset: 0, 0
+  index: -1
+
+未命名作品(1)3.png
+size: 1421,1873
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair
+  rotate: false
+  xy: 2, 2
+  size: 1417, 1869
+  orig: 1417, 1869
+  offset: 0, 0
+  index: -1
